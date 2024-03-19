@@ -19,7 +19,7 @@
     "node-fetch": "^2.6.7",
     "progress": "^2.0.3",
     "proxy-from-env": "^1.1.0",
-    "which": "^2.0.2"
+    "which": "^4.0.0"
   },
   "devDependencies": {
     "@vercel/nft": "^0.22.1",
